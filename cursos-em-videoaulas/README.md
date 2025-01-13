@@ -7,3 +7,7 @@ description: Cursos 100% EaD em  videoaulas (Ambiente Udemy)
 
 
 {% embed url="https://www.udemy.com/course/fundamentos-de-computacao-forense/" %}
+
+{% embed url="https://www.udemy.com/course/computacao-forense-em-midias/" %}
+
+{% embed url="https://www.udemy.com/course/producao-de-videoaulas/" %}
