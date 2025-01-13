@@ -16,7 +16,6 @@
 ## Ambientes EaD
 
 * [AVA/Moodle IFRN/CN](https://ead.projetos.cn.ifrn.edu.br)
-<a href="placeholder.com" target="_blank">Opens in new tab</a>
 
 ## IFRN 2025.1 (Atalho)
 
