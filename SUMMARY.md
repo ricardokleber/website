@@ -1,8 +1,6 @@
 # Table of contents
 
 * [👋 Bem Vindo(a)](README.md)
-* [Ambiente EaD](ambiente-ead/README.md)
-  * [EaD IFRN/CN](https://ead.projetos.cn.ifrn.edu.br)
 * [Canais Youtube](canais-youtube/README.md)
   * [Canal @rkifrn](https://www.youtube.com/@rkifrn)
   * [Canal @segurancaderedes](https://www.youtube.com/@segurancaderedes)
@@ -14,6 +12,10 @@
 * [Livros](livros/README.md)
   * [Introdução à Análise Forense em Redes de Computadores (2a Edição)](https://rklivros.lojavirtualnuvem.com.br/produtos/livro-introducao-a-analise-forense-em-redes-de-computadores/)
   * [\[E-Book\] Introdução à Análise Forense em Redes de Computadores (2a Edição)](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-An%C3%A1lise-Forense-Redes-Computadores-ebook/dp/B0CTXHPHN7)
+
+## Ambientes EaD
+
+* [AVA/Moodle IFRN/CN](https://ead.projetos.cn.ifrn.edu.br)
 
 ## IFRN 2025.1 (Atalho)
 
