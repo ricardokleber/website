@@ -6,7 +6,7 @@ description: Acesse meu ambiente virtual de aprendizagem (Moodle/EaD)
 
 
 
-<figure><img src="../.gitbook/assets/ead-banner.png" alt=""><figcaption></figcaption></figure>
+<figure><a href="https://ead.projetos.cn.ifrn.edu.br"><img src="../.gitbook/assets/ead-banner.png" alt=""></a></figure>
 
 
 
