@@ -21,7 +21,6 @@
 
 * [Sistemas Operacionais Abertos](https://ead.projetos.cn.ifrn.edu.br/course/view.php?id=10)
 * [Segurança e Preservação de Dados](https://ead.projetos.cn.ifrn.edu.br/course/view.php?id=11)
-* [Page](ifrn-2025.1-atalho/page.md)
 
 ## Sobre
 
