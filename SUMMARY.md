@@ -19,7 +19,7 @@
 
 ## IFRN 2025.1 (Atalho)
 
-* [Sistemas Operacionais Abertos](https://ead.projetos.cn.ifrn.edu.br/course/view.php?id=10)
+* [Sistemas Operacionais Abertos](https://ricardokleber.gitbook.io/tec1023)
 * [Segurança e Preservação de Dados](https://ricardokleber.gitbook.io/tec0700)
 
 ## Sobre
