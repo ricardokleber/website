@@ -10,8 +10,8 @@
   * [Computação Forense em Mídias Não Voláteis](https://www.udemy.com/course/computacao-forense-em-midias/)
   * [Produção de Videoaulas](https://www.udemy.com/course/producao-de-videoaulas/)
 * [Livros](livros/README.md)
-  * [Introdução à Análise Forense em Redes de Computadores (2a Edição)](https://rklivros.lojavirtualnuvem.com.br/produtos/livro-introducao-a-analise-forense-em-redes-de-computadores/)
   * [\[E-Book\] Introdução à Análise Forense em Redes de Computadores (2a Edição)](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-An%C3%A1lise-Forense-Redes-Computadores-ebook/dp/B0CTXHPHN7)
+  * [\[Livro Físico\] Introdução à Análise Forense em Redes de Computadores (2a Edição)](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-An%C3%A1lise-Forense-Redes-Computadores/dp/B0CTVLTQS4/)
 
 ## Ambientes EaD
 
