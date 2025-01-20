@@ -17,7 +17,7 @@
 
 * [AVA/Moodle IFRN/CN](https://ead.projetos.cn.ifrn.edu.br)
 
-## IFRN 2025.1 (Atalho)
+## IFRN/CN (2024.2)
 
 * [Sistemas Operacionais Abertos](https://ricardokleber.gitbook.io/tec1023)
 * [Segurança e Preservação de Dados](https://ricardokleber.gitbook.io/tec0700)
