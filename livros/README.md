@@ -12,4 +12,4 @@ description: Livros Publicados (em formato físico ou e-book)
 
 {% embed url="https://rklivros.lojavirtualnuvem.com.br/produtos/livro-introducao-a-analise-forense-em-redes-de-computadores/" %}
 
-<figure><img src="../.gitbook/assets/61y4qhfC1TL._SY466_.jpg" alt="https://www.amazon.com.br/Introdução-Análise-Forense-Redes-Computadores/dp/B0CTVLTQS4/"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/61y4qhfC1TL._SY466_.jpg" alt="https://www.amazon.com.br/Introdução-Análise-Forense-Redes-Computadores/dp/B0CTVLTQS4/"><figcaption><p><a href="https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-An%C3%A1lise-Forense-Redes-Computadores/dp/B0CTVLTQS4/">https://www.amazon.com.br/Introdução-Análise-Forense-Redes-Computadores/dp/B0CTVLTQS4/</a></p></figcaption></figure>
