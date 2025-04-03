@@ -29,9 +29,15 @@ nav:
     - Introdução à Análise Forense em Redes (Livro Físico): https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-An%C3%A1lise-Forense-Redes-Computadores/dp/B0CTVLTQS4/
   - Ambientes EaD:
     - Ava/Moodle IFRN/CN: https://ead.projetos.cn.ifrn.edu.br
-  - IFRN/CN (2024.2):
-    - Sistemas Operacionais Abertos: ifrn/tec1023.md
-    - Segurança e Preservação de Dados: ifrn/tec0700.md
+  - IFRN/CN:
+    - 2025.1:
+      - "[TEC.INF.3M] Redes de Computadores": ifrn/tec0678.md
+      - "[INT.INF.2M] Redes de Computadores": ifrn/tin1160.md      
+      - "[INT.MS.3M] Infraestrutura de Redes de Computadores": ifrn/tin0454.md
+      - "[INT.INF.4M] Fund.Sist.Operacionais e Redes de Computadores": ifrn/tin0022.md
+    - 2024.2:
+      - Sistemas Operacionais Abertos: ifrn/tec1023.md
+      - Segurança e Preservação de Dados: ifrn/tec0700.md
   - Sobre:
     - Quem sou eu?: sobre/quemsoueu.md
     - Currículo Lattes: http://lattes.cnpq.br/1198509733142922
