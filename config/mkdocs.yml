@@ -1,0 +1,37 @@
+site_name: RK Website
+site_url: https://www.ricardokleber.com.br
+theme:
+  name: material
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  logo: assets/images/rk_logo.png
+  palette:
+    primary: light blue
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+nav:
+  - Início: index.md
+  - Canais Youtube:
+    - Canal @rkifrn: https://www.youtube.com/@rkifrn
+    - Canal @segurancaderedes: https://www.youtube.com/@segurancaderedes
+    - Canal @ricardokleber: https://www.youtube.com/@ricardokleber
+  - Cursos em Videoaulas:
+    - Fundamentos de Computação Forense: https://www.udemy.com/course/fundamentos-de-computacao-forense/
+    - Computação Forense em Mídias Não Voláteis: https://www.udemy.com/course/computacao-forense-em-midias/
+  - Livros:
+    - Introdução à Análise Forense em Redes (E-Book): https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-An%C3%A1lise-Forense-Redes-Computadores-ebook/dp/B0CTXHPHN7
+    - Introdução à Análise Forense em Redes (Livro Físico): https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-An%C3%A1lise-Forense-Redes-Computadores/dp/B0CTVLTQS4/
+  - Ambientes EaD:
+    - Ava/Moodle IFRN/CN: https://ead.projetos.cn.ifrn.edu.br
+  - IFRN/CN (2024.2):
+    - Sistemas Operacionais Abertos: https://ricardokleber.gitbook.io/tec1023
+    - Segurança e Preservação de Dados: https://ricardokleber.gitbook.io/tec1023
+  - Sobre:
+    - Quem sou eu?: sobre/quemsoueu.md
+    - Currículo Lattes: http://lattes.cnpq.br/1198509733142922
+  - Contatos:
+    - E-mails: contatos/emails.md
+    - Endereço (Correspondência): contatos/endereco.md 
