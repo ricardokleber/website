@@ -8,6 +8,9 @@ theme:
   logo: assets/images/rk_logo.png
   palette:
     primary: light blue
+  icon:
+    admonition:
+      example: fontawesome/brands/youtube
 markdown_extensions:
   - attr_list
   - md_in_html
