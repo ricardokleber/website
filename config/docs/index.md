@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-![Website do Prof. Ricardo Kléber](./assets/images/rk_banner_home.png)
+![Website do Prof. Ricardo Kléber](./assets/images/rk_banner_home_01.png)
 # 👋 Bem Vindo(a)
 
 Eu sou o prof. Ricardo Kléber e preparei este ambiente para concentrar informações e links para todos os sistemas e conteúdos que eu produzo e/ou indico referentes, principalmente, às minhas atividades como professor do IFRN e outras atividades esporádicas.
