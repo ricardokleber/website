@@ -7,7 +7,21 @@ theme:
     code: Red Hat Mono
   logo: assets/images/rk_logo.png
   palette:
-    primary: light blue
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   icon:
     admonition:
       example: fontawesome/brands/youtube
