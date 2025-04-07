@@ -43,7 +43,7 @@ nav:
       - "[TEC.INF.3M] Redes de Computadores": ifrn/tec0678.md
       - "[INT.INF.2M] Redes de Computadores": ifrn/tin1160.md      
       - "[INT.MS.3M] Infraestrutura de Redes de Computadores": ifrn/tin0454.md
-      - "[INT.INF.4M] Fund.Sist.Operacionais e Redes de Computadores": ifrn/tin0022.md
+      - "[INT.INF.4M] Fund.Sist.Operacionais e S.O.de Redes": ifrn/tin0022.md
     - 2024.2:
       - Sistemas Operacionais Abertos: ifrn/tec1023.md
       - Segurança e Preservação de Dados: ifrn/tec0700.md
