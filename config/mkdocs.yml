@@ -54,6 +54,7 @@ nav:
     - Ava/Moodle IFRN/CN: https://ead.projetos.cn.ifrn.edu.br
   - IFRN/CN:
     - 2025.1:
+      - "Horários RK (2025.1)": ifrn/20251.md
       - "[TEC.INF.3M] Redes de Computadores": ifrn/tec0678.md
       - "[INT.INF.2M] Redes de Computadores": ifrn/tin1160.md      
       - "[INT.MS.3M] Infraestrutura de Redes de Computadores": ifrn/tin0454.md
