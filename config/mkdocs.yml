@@ -52,6 +52,7 @@ nav:
     - Introdução à Análise Forense em Redes (Livro Físico): https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-An%C3%A1lise-Forense-Redes-Computadores/dp/B0CTVLTQS4/
   - Ambientes EaD:
     - Ava/Moodle IFRN/CN: https://ead.projetos.cn.ifrn.edu.br
+    - Ava/Moodle EHA/IFRN: https://ead.eha.net.br
   - IFRN/CN:
     - 2025.1:
       - "Horários RK (2025.1)": ifrn/20251.md
@@ -62,9 +63,12 @@ nav:
     - 2024.2:
       - Sistemas Operacionais Abertos: ifrn/tec1023.md
       - Segurança e Preservação de Dados: ifrn/tec0700.md
+  - Projetos:
+    - Academia do Hacker Ético: https://www.eha.net.br
   - Sobre:
     - Quem sou eu?: sobre/quemsoueu.md
     - Currículo Lattes: http://lattes.cnpq.br/1198509733142922
   - Contatos:
     - E-mails: contatos/emails.md
     - Endereço (Correspondência): contatos/endereco.md 
+  - Linkedin: https://br.linkedin.com/in/ricardokleber
