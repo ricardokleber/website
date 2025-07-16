@@ -1,7 +1,7 @@
 services:
   mkdocs:
     image: ricardokleber/mkdocs:latest
-    container_name: mkdocs
+    container_name: rk_website
     ports:
       - "8000:8000"
     volumes:
