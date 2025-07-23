@@ -3,6 +3,6 @@ services:
     image: ricardokleber/mkdocs:latest
     container_name: rk_website
     ports:
-      - "8000:8000"
+      - "127.0.0.1:10004:8000"
     volumes:
       - ./config:/mkdocs
