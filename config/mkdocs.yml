@@ -54,15 +54,17 @@ nav:
     - Ava/Moodle IFRN/CN: https://ead.projetos.cn.ifrn.edu.br
     - Ava/Moodle EHA/IFRN: https://ead.eha.net.br
   - IFRN/CN:
+    - 2025.2:
+      - "[INT.INF.2M] Redes de Computadores": ifrn/tin1160.md
+      - "[TEC.INF.4M] Sistemas Distribuídos": ifrn/tec1031.md      
+      - "[TEC.INF.4M] Aplicações de Redes de Computadores": ifrn/tec1032.md 
+      - "[TEC.INF.6T] Segurança e Preservação de Dados": ifrn/tec0700.md 
     - 2025.1:
       - "Horários RK (2025.1)": ifrn/20251.md
       - "[TEC.INF.3M] Redes de Computadores": ifrn/tec0678.md
       - "[INT.INF.2M] Redes de Computadores": ifrn/tin1160.md      
       - "[INT.MS.3M] Infraestrutura de Redes de Computadores": ifrn/tin0454.md
       - "[INT.INF.4M] Fund.Sist.Operacionais e S.O.de Redes": ifrn/tin0022.md
-    - 2024.2:
-      - Sistemas Operacionais Abertos: ifrn/tec1023.md
-      - Segurança e Preservação de Dados: ifrn/tec0700.md
   - Projetos:
     - Academia do Hacker Ético: https://www.eha.net.br
   - Sobre:

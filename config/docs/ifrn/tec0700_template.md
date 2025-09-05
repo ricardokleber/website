@@ -129,22 +129,24 @@
 
 ### 4. Segurança em Ambiente de Rede
 
-#### 4.1. Firewalls
-#### 4.2. Sistemas de Detecção de Intrusões (IDS)
-#### 4.3. Redes Virtuais Privadas (VPNs)
+??? abstract "4.1. Firewalls :: Slides"
+    <div class="video-wrapper">
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJyrVu1kIAwNnW3Z9NgKufJXaM022OzRx27ViwfKNojrxR3yQH6W_wr3rZNoSMzgcO-rvUuvIy68fT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1058" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
+
+??? abstract "4.2. Sistemas de Detecção de Intrusões (IDS) :: Slides"
+    <div class="video-wrapper">
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9-bqAhlmg2Dy50HCafx0yH4i-mNXgihLa1HmMViebkiybQoPLVAsC1wYplhwgg__omarMtrKJKyHn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1058" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
+
+??? abstract "4.3. Redes Virtuais Privadas (VPNs) :: Slides"
+    <div class="video-wrapper">
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5O1Ow_Rik1BHYQX5IIzviCdqtDxl_zUQMLJMyVFc7FosZ7PzflunIPC1Q38KN6kYudnw34z3oTuLV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1058" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
 
 ### 5. Análise de Vulnerabilidades e Segurança
 
-#### 5.1. Vulnerabilidades em Sistemas Computacionais e Serviços
-#### 5.2. Testes de Intrusão (pentests)
-
-### 6. Computação Forense
-
-#### 6.1. Introdução à análise forense computacional
-#### 6.2. Técnicas de recuperação de dados
-#### 6.3. Introdução à análise forense em redes
-
-### 7. Políticas de Segurança da Informação
-
-#### 7.1. Principais normas de segurança da informação
-#### 7.2. Implementação de uma política de segurança
+??? abstract "Slides"
+    <div class="video-wrapper">
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwe6QzIZ4BH1mfr0ntntscFStkVKSGObEjbEwrTlaP5AiZQvkRIFlCGkLuYZSV8glRseSYbUHvLAy9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1058" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
