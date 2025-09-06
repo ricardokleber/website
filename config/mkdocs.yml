@@ -55,6 +55,7 @@ nav:
     - Ava/Moodle EHA/IFRN: https://ead.eha.net.br
   - IFRN/CN:
     - 2025.2:
+      - "Horários RK (2025.2)": ifrn/20252.md
       - "[INT.INF.2M] Redes de Computadores": ifrn/tin1160.md
       - "[TEC.INF.4M] Sistemas Distribuídos": ifrn/tec1031.md      
       - "[TEC.INF.4M] Aplicações de Redes de Computadores": ifrn/tec1032.md 
